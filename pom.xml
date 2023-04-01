@@ -20,6 +20,10 @@
         <module>objects_task2</module>
         <module>classes_task1</module>
         <module>classes_task2</module>
+        <module>statements_task2</module>
+        <module>statements_task3</module>
+        <module>statements_task4</module>
+        <module>statements_task5</module>
     </modules>
 
     <properties>
